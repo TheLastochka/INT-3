@@ -1,0 +1,5 @@
+{
+    "THREADS_NUM": 5,
+    "PORT": 8080,
+    "QUARANTINE_DIR": "quarantine"
+}

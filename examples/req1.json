@@ -1,0 +1,7 @@
+{
+    "command":"CheckLocalFile",
+    "params": {
+        "file_path": "./examples/files/malware1.txt",
+        "signature": "313233"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "command":"QuarantineLocalFile",
+    "params": {
+        "file_path": "./examples/files/malware2.txt"
+    }
+}
